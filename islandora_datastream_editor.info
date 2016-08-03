@@ -1,0 +1,6 @@
+name = Islandora Datastream Editor
+description = "Provides Drush command for updating datastream properties."
+package = Islandora Tools
+version = 7.x-dev
+core = 7.x
+dependencies[] = islandora
